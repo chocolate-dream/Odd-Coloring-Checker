@@ -1,0 +1,1 @@
+graphとcoloringが与えられたとき, odd colorinになっているかを判定します.
